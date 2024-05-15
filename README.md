@@ -1,7 +1,7 @@
 # Working Solutions Ready
 
 <br>
-Solution to a <a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/">coding problem</a> I was asked in a SDE Interview.
+Solution to a <a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/" target="_blank">coding problem</a> I was asked in a SDE Interview.
 <br>
 
 
@@ -12,3 +12,7 @@ Solution to a <a href="https://leetcode.com/problems/minimum-size-subarray-sum/d
 ## Optimized
 
 (O log(n)) time, O(n) for each iteration and log(n) for binarySeach per iteration. O(1) Space.
+
+## Best Solution
+
+O(n) time and O(1) space. This solution utilizes the sliding window strategy accomplished using the two pointers approach.
